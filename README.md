@@ -62,5 +62,3 @@ pip install torch torchvision gymnasium transformers datasets peft scikit-learn 
 
 Martina Tuccio – Deep Learning Applications (2024/2025)
 
-```bash
-pip install torch torchvision gymnasium transformers datasets peft scikit-learn matplotlib tensorboard
